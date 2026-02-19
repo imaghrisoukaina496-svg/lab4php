@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Entity/Filiere.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/test_conn.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Log/Logger.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Dao/EtudiantDao.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/test_dao.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/logs/pdo_errors.log</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/config/db.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Entity/Etudiant.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Dao/FiliereDao.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Database/DBConnection.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/sql/001_create_db.sql</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/bootstrap.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject4/src/Log/test.php</file>
+        </group>
+    </open-files>
+</project-private>

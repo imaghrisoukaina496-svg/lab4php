@@ -1,0 +1,14 @@
+<?php
+
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+[2026-02-19 11:30:18] ERROR: Ceci est un test | context={"variable":123}
+[2026-02-19 11:53:13] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'INFO' for key 'uq_filiere_code' | context={"method":"App\\Dao\\FiliereDao::insert","sql":"INSERT INTO filiere(code, libelle) VALUES(:code, :libelle)"}
+[2026-02-19 11:53:43] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'INFO' for key 'uq_filiere_code' | context={"method":"App\\Dao\\FiliereDao::insert","sql":"INSERT INTO filiere(code, libelle) VALUES(:code, :libelle)"}
+[2026-02-19 11:53:44] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'INFO' for key 'uq_filiere_code' | context={"method":"App\\Dao\\FiliereDao::insert","sql":"INSERT INTO filiere(code, libelle) VALUES(:code, :libelle)"}
+[2026-02-19 12:07:29] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MATH' for key 'uq_filiere_code' | context={"method":"App\\Dao\\FiliereDao::insert","sql":"INSERT INTO filiere(code, libelle) VALUES(:code, :libelle)"}
+[2026-02-19 12:08:57] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'duplicate@test.com' for key 'uq_etudiant_email' | context={"method":"App\\Dao\\EtudiantDao::insert","sql":"INSERT INTO etudiant(cne, nom, prenom, email, filiere_id) VALUES(:cne, :nom, :prenom, :email, :filiere_id)","cne":"CNE5003","email":"duplicate@test.com"}
